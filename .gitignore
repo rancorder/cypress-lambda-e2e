@@ -1,0 +1,39 @@
+﻿# Dependencies
+node_modules/
+package-lock.json
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+cypress.env.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Environment
+.env
+.env.local
+
+# AWS
+.aws-sam/
+
+# Lambda
+lambda/dist/
+lambda/node_modules/
+*.zip
+
+# Build
+dist/
+build/
+coverage/
