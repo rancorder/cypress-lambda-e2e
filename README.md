@@ -1,22 +1,3 @@
-# Cypress E2E Test Automation
-
-## Setup
-
-1. Install dependencies:
-   ```
-   npm install
-   ```
-
-2. Run tests:
-   ```
-   npm test
-   ```
-
-3. Open GUI:
-   ```
-   npm run cypress:open
-   ```
-
 # 🚀 Cypress Lambda E2E Test Automation
 
 <div align="center">
@@ -443,6 +424,25 @@ MIT License - 詳細は [LICENSE](LICENSE) を参照
 ---
 
 <div align="center">
+
+# Cypress E2E Test Automation
+
+## Setup
+
+1. Install dependencies:
+   ```
+   npm install
+   ```
+
+2. Run tests:
+   ```
+   npm test
+   ```
+
+3. Open GUI:
+   ```
+   npm run cypress:open
+   ```
 
 ### ⭐ このリポジトリが役に立ったら、ぜひStarをお願いします！
 
